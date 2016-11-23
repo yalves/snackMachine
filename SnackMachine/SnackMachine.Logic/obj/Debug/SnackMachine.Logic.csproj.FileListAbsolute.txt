@@ -1,0 +1,5 @@
+c:\users\yalves\documents\visual studio 2015\Projects\SnackMachine\SnackMachine.Logic\obj\Debug\SnackMachine.Logic.csprojResolveAssemblyReference.cache
+c:\users\yalves\documents\visual studio 2015\Projects\SnackMachine\SnackMachine.Logic\bin\Debug\SnackMachine.Logic.dll
+c:\users\yalves\documents\visual studio 2015\Projects\SnackMachine\SnackMachine.Logic\bin\Debug\SnackMachine.Logic.pdb
+c:\users\yalves\documents\visual studio 2015\Projects\SnackMachine\SnackMachine.Logic\obj\Debug\SnackMachine.Logic.dll
+c:\users\yalves\documents\visual studio 2015\Projects\SnackMachine\SnackMachine.Logic\obj\Debug\SnackMachine.Logic.pdb
